@@ -1,6 +1,6 @@
 # Banking Application
 
-A console-based Banking Application developed using Java as part of the **WeIntern Java Development Internship – Week 1 Assignment**.
+A console-based Banking Application developed using Java.
 
 This project demonstrates Object-Oriented Programming (OOP), Java Collections, exception handling, and input validation through a simple menu-driven banking system.
 
